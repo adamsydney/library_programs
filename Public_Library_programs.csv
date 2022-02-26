@@ -1,0 +1,4 @@
+Name,City,State,Locale code,service_area_population,central_libraries,branch_libraries,total_programs,kids_programs,ya_programs,program_audience,kids_program_audience,total_revenue,local_revenue,state_revenue,federal_revenue,other_revenue
+ARCADIA PUBLIC LIBRARY,ARCADIA,CA,City (13),58891,1,0,556,282,124,24650,15282,3773581,3676177,10000,13923,73481
+BURBANK PUBLIC LIBRARY,BURBANK,CA,City (12),105952,1,2,617,362,58,29130,23479,7125675,6993901,27709,0,104065
+GLENDALE PUBLIC LIBRARY,GLENDALE,CA,City (12),206283,1,7,4979,2567,14,77225,59003,11278455,10663851,91640,19128,503836
